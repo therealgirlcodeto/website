@@ -1,7 +1,7 @@
 {
   "settings": {
-    "name": "Site-11-26_1430",
-    "currentPage": "index.html",
+    "name": "TRGC V1",
+    "currentPage": "home.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -12,10 +12,15 @@
     },
     "versionFirst": "4.4.1",
     "uniqCompNum": 100,
-    "versionPublish": "4.4.1"
+    "versionPublish": "4.4.1",
+    "favicon": "",
+    "noImageResize": "",
+    "google-analytics": "",
+    "cookiesAlert": "",
+    "siteUrl": "undefined"
   },
   "pages": {
-    "index.html": {
+    "home.html": {
       "settings": {
         "main": true,
         "title": "Home",
@@ -48,7 +53,7 @@
             "color": "#2c2c2c",
             "hamburgerColor": "#ffffff"
           },
-          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"#top\">HOME</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#content5-2j\">ABOUT</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#content5-2o\">FAQS</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#header3-2b\">TEAM</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#content5-2r\">SPONSORS</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#form1-25\">CONTACT</a></li>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"#top\">HOME</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#content5-2j\">ABOUT</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#content5-2o\">FAQS</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#content5-2r\">SPONSORS</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#form1-25\">CONTACT</a></li>",
           "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#msg-box1-23\" data-toolbar=\"-mbrBtnMove\">GET INVOLVED</a></li>",
           "logo": {
             "image": {
@@ -97,7 +102,7 @@
             "overlayOpacity": 0.5
           },
           "title": "THE REAL GIRL CODE",
-          "text": "An all-girls hackathon aimed at middle school and high school students located in Toronto&nbsp;happening in Winter 2018.",
+          "text": "An all-girls hackathon aimed at middle school and high school students located in Toronto&nbsp;happening in Spring 2018.",
           "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-default\" href=\"index.html#content5-2j\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a> ",
           "_tags": [
             "Theme"
@@ -136,7 +141,7 @@
             "showText": true,
             "showButton": false,
             "paddingTop": "2",
-            "paddingBottom": "2",
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "bgImage": "@PROJECT_PATH@/assets/images/img-1836-1600x1200.jpg",
             "parallax": true,
@@ -186,7 +191,7 @@
             "showText": true,
             "showButton": false,
             "paddingTop": "2",
-            "paddingBottom": "2",
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "bgImage": "images/bg3.jpg",
             "parallax": true,
@@ -272,8 +277,8 @@
             "showCaption": "noCaption",
             "showText": true,
             "showButton": false,
-            "paddingTop": 3,
-            "paddingBottom": 3,
+            "paddingTop": "2",
+            "paddingBottom": "2",
             "bgImageRadio": false,
             "bgImage": "images/bg3.jpg",
             "parallax": true,
@@ -289,7 +294,7 @@
             "overlayOpacity": 0.2
           },
           "title": "FREQUENTLY ASKED QUESTIONS",
-          "text": "<p><b>What is a hackathon?</b></p><p>A hackathon is best described as an “invention marathon”. Anyone who has an interest in technology attends a hackathon to learn, build and share their creations over the course of a weekend in a relaxed and welcoming atmosphere. You don’t have to be a programmer and you certainly don’t have to be majoring in Computer Science.</p><p><b>Who can participate?</b><br></p><p>All middle school and high school girls in the Greater Toronto Area are welcome! If you are not a middle school or high school girl but would still like to be involved, please fill out our form to be a mentor!</p><p><b>When is The Real Girl Code?</b></p><p>The date for The Real Girl Code will be announced soon!</p><p><b>Where is The Real Girl Code?</b></p><p>The location for The Real Girl Code will be announced soon!&nbsp;</p><p><b>How much does it cost to attend The Real Girl Code?</b></p><p>Thanks to our sponsors, The Real Girl Code is completely free! That’s right, it’s free! In addition, we’ll also be providing snacks, lunch, and cool swag!</p><p><b>What if I've never been to a hackathon?</b></p><p>No worries! The Real Girl Code is open to coders of all levels! We will have workshops that will introduce you to coding and mentors who will be more than willing to help!&nbsp;</p><p><b>What should I bring?</b></p><p>Just bring a laptop, a power cord, yourself, and a positive attitude!</p><p><b>Do I need a team?</b></p><p>If you feel that you’re better off working alone, great! However, we strongly encourage joining a team so that you can also learn team-building and intercommunication skills. Plus, you can meet some new friends!</p>",
+          "text": "<p><b>What is a hackathon?</b></p><p>A hackathon is best described as an “invention marathon”. Anyone who has an interest in technology attends a hackathon to learn, build and share their creations over the course of a weekend in a relaxed and welcoming atmosphere. You don’t have to be a programmer and you certainly don’t have to have experience.</p><p><b>Who can participate?</b><br></p><p>All middle school and high school girls in the Greater Toronto Area are welcome! If you are not a middle school or high school girl but would still like to be involved, please fill out our form to be a mentor.</p><p><b>When is The Real Girl Code?</b></p><p>The Real Girl Code will take place in Spring 2018. Keep an eye out for the exact date!</p><p><b>Where is The Real Girl Code?</b></p><p>The Real Girl Code venue will be in the Greater Toronto Area. Keep an eye out for the exact location!</p><p><b>How much does it cost to attend The Real Girl Code?</b></p><p>Thanks to our sponsors, The Real Girl Code is completely free! That’s right, it’s free! In addition, we’ll also be providing snacks, lunch, and cool swag!</p><p><b>What if I've never been to a hackathon?</b></p><p>No worries! The Real Girl Code is open to coders of all levels! We will have workshops that will introduce you to coding and mentors who will be more than willing to help!&nbsp;</p><p><b>What should I bring?</b></p><p>Just bring a laptop, a power cord, yourself, and a positive attitude!</p><p><b>Do I need a team?</b></p><p>If you feel that you’re better off working alone, great! However, we strongly encourage joining a team so that you can also learn team-building and intercommunication skills. Plus, you can meet some new friends!</p>",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>",
           "_tags": [
             "Theme"
@@ -320,204 +325,6 @@
           "_anchor": "social-buttons2-2p"
         },
         {
-          "_params": {
-            "showMeta": false
-          },
-          "title": "MEET THE TEAM",
-          "meta": "The Real Girl Code team dreams of a wo",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header3",
-          "_anchor": "header3-2b",
-          "_styles": {
-            "H3": {
-              "text-align": "center"
-            }
-          }
-        },
-        {
-          "_inherit": "msg-box5",
-          "_params": {
-            "showTitle": true,
-            "showMeta": true,
-            "showText": true,
-            "showButtons": false,
-            "inverse": false,
-            "imageSize": "40",
-            "paddingTop": "0",
-            "paddingBottom": "1",
-            "bgImageRadio": false,
-            "bgImage": "images/bg3.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#ffffff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "media": {
-            "image": {
-              "class": "mbr-figure__img",
-              "width": 1400,
-              "src": "images/iphone.png"
-            },
-            "video": {
-              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-msg-box4",
-              "linkInNewWindow": false,
-              "name": "smile-face",
-              "family": "MobiriseIcons",
-              "link": "",
-              "size": "300",
-              "active": true,
-              "color": "#7c706b"
-            }
-          },
-          "title": "DENISE LEE",
-          "text": "",
-          "_tags": [
-            "Theme"
-          ],
-          "_styles": {
-            ".mbr-header__text": {
-              "color": "#000000"
-            },
-            ".mbr-header__subtext": {
-              "color": "#7c706b"
-            },
-            ".mbr-article": {
-              "color": "#ffffff"
-            },
-            ".mbr-article P": {
-              "color": "#000000"
-            }
-          },
-          "headerAlign": "left",
-          "meta": "Co-founder",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>",
-          "_name": "msg-box4",
-          "_anchor": "msg-box4-2c"
-        },
-        {
-          "_inherit": "msg-box5",
-          "_params": {
-            "showTitle": true,
-            "showMeta": true,
-            "showText": true,
-            "showButtons": false,
-            "inverse": false,
-            "imageSize": "40",
-            "paddingTop": "1",
-            "paddingBottom": "2",
-            "bgImageRadio": false,
-            "bgImage": "images/bg3.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#ffffff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "media": {
-            "image": {
-              "class": "mbr-figure__img",
-              "width": 1400,
-              "src": "images/iphone.png"
-            },
-            "video": {
-              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-msg-box4",
-              "linkInNewWindow": false,
-              "name": "smile-face",
-              "family": "MobiriseIcons",
-              "link": "",
-              "size": "300",
-              "color": "#7c706b",
-              "active": true
-            }
-          },
-          "title": "EMILY SU",
-          "text": "",
-          "_tags": [
-            "Theme"
-          ],
-          "_styles": {
-            ".mbr-header__text": {
-              "color": "#000000"
-            },
-            ".mbr-header__subtext": {
-              "color": "#7c706b"
-            },
-            ".mbr-article": {
-              "color": "#7c706b"
-            },
-            ".mbr-article P": {
-              "color": "#000000"
-            }
-          },
-          "headerAlign": "left",
-          "meta": "Co-founder",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>",
-          "_name": "msg-box4",
-          "_anchor": "msg-box4-2l"
-        },
-        {
-          "_styles": {
-            ".mbr-header .mbr-header__text": {
-              "color": "#000000"
-            },
-            ".mbr-article": {
-              "color": "#000000"
-            }
-          },
-          "_params": {
-            "showTitle": true,
-            "showText": true,
-            "showButtons": true,
-            "paddingTop": 2,
-            "paddingBottom": 3,
-            "bgImageRadio": false,
-            "bgImage": "images/bg3.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#27aae0",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "title": "INTERESTED IN JOINING THE TEAM?",
-          "text": "We're always looking for new members to join our team!",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"mailto:therealgirlcodeto@gmail.com\" data-toolbar=\"-mbrBtnMove\">CONTACT US</a>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box1",
-          "_anchor": "msg-box1-2e"
-        },
-        {
           "_inherit": "msg-box3",
           "_styles": {
             ".mbr-header .mbr-header__text": {
@@ -541,8 +348,8 @@
             "showCaption": "noCaption",
             "showText": true,
             "showButton": true,
-            "paddingTop": 3,
-            "paddingBottom": 3,
+            "paddingTop": "2",
+            "paddingBottom": "2",
             "bgImageRadio": false,
             "bgImage": "images/bg3.jpg",
             "parallax": true,
@@ -559,7 +366,7 @@
           },
           "title": "SPONSORS",
           "text": "<p>Sponsors make The Real Girl Code possible. If you or your company is able to provide us with monetary, physical, or human resources, please view our sponsorship package and contact us!</p>",
-          "button": " <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-info\" href=\"#top\" data-toolbar=\"-mbrBtnMove\">SPONSORSHIP PACKAGE</a>",
+          "button": " <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-info\" href=\"https://drive.google.com/file/d/1LplWIEf3l3oixuN1d4rBmn41lTPh-MGf/view?usp=sharing\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">SPONSORSHIP PACKAGE</a>",
           "_tags": [
             "Theme"
           ],
@@ -647,7 +454,7 @@
           },
           "text1": "",
           "text2": "<strong>CONTACT</strong><br>\nEmail: therealgirlcodeto@gmail.com",
-          "text3": "<p class=\"mbr-contacts__text\"><strong>LINKS</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"#top\">Home</a></li><li><a href=\"index.html#content5-2j\">About</a></li><li><a href=\"index.html#content5-2o\">FAQs</a></li><li><a href=\"index.html#header3-2b\">Team</a></li><li><a href=\"index.html#content5-2q\">Sponsors</a></li><li><a href=\"index.html#form1-25\">Contact</a></li><li><a href=\"index.html#msg-box1-23\">Get Involved</a></li></ul>",
+          "text3": "<p class=\"mbr-contacts__text\"><strong>LINKS</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"#top\">Home</a></li><li><a href=\"index.html#content5-2j\">About</a></li><li><a href=\"index.html#content5-2o\">FAQs</a></li><li><a href=\"index.html#content5-2q\">Sponsors</a></li><li><a href=\"index.html#form1-25\">Contact</a></li><li><a href=\"index.html#msg-box1-23\">Get Involved</a></li></ul>",
           "_tags": [
             "Theme"
           ],
@@ -667,7 +474,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "Copyright (c) 2017 The Real Girl Code.",
+          "text": "Copyright (c) 2017 - 2018 The Real Girl Code.",
           "_tags": [
             "Theme"
           ],
