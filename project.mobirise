@@ -32,7 +32,7 @@
       ]
     },
     "versionFirst": "4.4.1",
-    "uniqCompNum": 45,
+    "uniqCompNum": 48,
     "versionPublish": "4.4.1",
     "favicon": "",
     "noImageResize": "",
@@ -779,6 +779,25 @@
             }
           },
           "_name": "content1",
+          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article><p><b>Where can I find the attendee consent form?</b></p><p>Please bring a signed copy of <a href=\"assets/files/The%20Real%20Girl%20Code%20Consent%20Form.pdf\" target=\"_blank\">this consent form</a> to the hackathon.</p></div>\n        </div>\n    </div>\n</section>",
+          "_anchor": "content1-1b",
+          "_isUserblock": true,
+          "_cid": "qQEXxcMAtj",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        },
+        {
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "background-color": "@bgColor",
+            ".mbr-text, blockquote": {
+              "color": "#767676"
+            }
+          },
+          "_name": "content1",
           "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article><p><span style=\"font-size: 1rem;\"><b>Have any other questions? </b></span></p><p><span style=\"font-size: 1rem;\"><b><a href=\"index.html#form1-f\">Contact us!</a></b></span></p></div>\n        </div>\n    </div>\n</section>",
           "_anchor": "content1-p",
           "_isUserblock": true,
@@ -1007,6 +1026,14 @@
           "_params": {}
         }
       ]
+    },
+    "consentform.html": {
+      "settings": {
+        "meta_descr": "Consent Form",
+        "title": "Consent Form",
+        "order": 1
+      },
+      "components": []
     }
   }
 }
